@@ -1,3 +1,6 @@
+//Jared Boyd 1/5/2023
+//Meant to be left running and it automatically "buys" and "sells" based on the current price
+
 import java.io.*;
 import java.net.*;
 import java.text.*;
@@ -11,10 +14,12 @@ public class MinuteTrading {
         int currentStocks = 0;
         double boughtPrice = 0;
         double budget = 1000;
+        //Currently only looks at Apple stock
         String code = "AAPL";
         int counter = 0;
         int num = 0;
 
+        //Checks on the time to see if the market is closed
         while(!time.startsWith("5")){
             double currentPrice = getCurrentPrice(code);
             System.out.print(currentPrice + " ");
@@ -27,6 +32,7 @@ public class MinuteTrading {
 
             if (pastPrice != 0.0){
 
+                //Buys if stock starts to go up
                 if(currentStocks == 0 && currentPrice > pastPrice){
                     double[] info = buy(code, currentPrice, budget, time);
                     budget = info[0];
@@ -34,6 +40,7 @@ public class MinuteTrading {
                     boughtPrice = currentPrice;
                 }
 
+                //Sells if stock starts to go down
                 else if (currentStocks != 0 && currentPrice < pastPrice){
                     budget = sell(code, currentStocks, currentPrice, boughtPrice, budget, time);
                     currentStocks = 0;
@@ -43,6 +50,7 @@ public class MinuteTrading {
             pastPrice = currentPrice;
             counter++;
 
+            //Waits for 30 seconds before looking at data again
             try {
                 Thread.sleep(30 * 1000);
             } catch (InterruptedException e) {
@@ -56,6 +64,7 @@ public class MinuteTrading {
         }
     }
 
+    //Buys and prints of what based on the inputs
     public static double[] buy(String code, double price, double budget, String time){
         int numToBuy = (int)(budget / price);
         String str = "Buy " + numToBuy + " " + code + " at " + price + ". Time: " + time;
@@ -63,12 +72,14 @@ public class MinuteTrading {
         return new double[]{(budget - price * numToBuy), (double)numToBuy};
     }
 
+    //Sells and prints based on the inputs
     public static double sell(String code, int numStock, double sellPrice, double buyPrice, double budget, String time){
         String str = "Sell " + numStock + " " + code + " at " + sellPrice + ". Bought at " + buyPrice + ". Change " + (sellPrice - buyPrice) + ". Time: " + time;
         document(str);
         return budget + numStock * sellPrice;
     }
 
+    //Documents what transactions have been made to a text document
     public static void document(String toDocument){
         try {
             FileWriter toWrite = new FileWriter("C:\\Users\\jared\\IdeaProjects\\MinuteTrading\\src\\Documentation.txt", true);
@@ -79,6 +90,7 @@ public class MinuteTrading {
         }
     }
 
+    //Gets the current price of the given stock so the price can be tracked throughout the day
     public static double getCurrentPrice(String code) {
         URL url;
         InputStream is = null;
