@@ -19,6 +19,7 @@ public class DailyMarkovChain {
         double budget = Double.parseDouble(lines[0]);
         System.out.println("Initial Budget: " + budget);
 
+        //Sells all stocks bought the previous day
         for(int i = 1 ; i < lines.length ; i++){
             String[] data = lines[i].split("\t");
             double boughtPrice = Double.parseDouble(data[1]);
@@ -33,10 +34,17 @@ public class DailyMarkovChain {
         whatToBuy(codes, budget);
     }
 
+    /*
+    * Decides what to buy that specific day based on the budget and given stocks
+    * Input:
+    *   codes - a list of stocks to check
+    *   budget - the amount of money that can be used
+    */
     public static void whatToBuy(String[] codes, double budget){
         double[] currents = new double[codes.length];
         double[] difProbs = new double[codes.length];
 
+        //Gathers data and builds markov chain for each stock
         for(int i = 0 ; i < codes.length ; i++) {
             String code = codes[i];
             List<double[]> data = getData(code);
@@ -51,6 +59,7 @@ public class DailyMarkovChain {
         }
         int[] choices = new int[]{-1, -1, -1, -1};
 
+        //Chooses up to four stocks and are most likely to increase by 1% or more
         for(int i = 0 ; i < codes.length ; i++){
 
             if(choices[3] == -1){
@@ -92,6 +101,7 @@ public class DailyMarkovChain {
         double left = budget;
         int[] shares = new int[4];
 
+        //Maximizes stocks bought from budget and finalizes them
         for(int i = 0 ; i < 4 ; i++){
             int choice = choices[i];
 
@@ -102,6 +112,7 @@ public class DailyMarkovChain {
             }
             perc= 0.2;
         }
+        //Prints and sends to CurrentHoldings file the choices
         String fileContents = "";
 
         for (int i = 0 ; i < 4 ; i++){
@@ -130,6 +141,12 @@ public class DailyMarkovChain {
     }
 
 
+    /*
+    * Scrapes Yahoo Finance for historical stock data on the given stock
+    * Input: 
+    *   code - a String representing the ticker symbol of the stock to get data about
+    * Output: A list of data based on each day
+    */
     public static List<double[]> getData(String code) {
         URL url;
         InputStream is = null;
@@ -183,6 +200,13 @@ public class DailyMarkovChain {
     //0 - Greater than 1% increase
     //1 - Between 1 and -1% movement
     //2 - Decrease by at least 1%
+    
+    /*
+    * Organizes data for a markov chain to be made
+    * Input:
+    *   data - the list of data made from the previous function
+    * Output: A list of Integers following the above statements for what happened in the stock price
+    */
     public static List<Integer> organizeData (List<double[]> data){
         List<Integer> toReturn = new ArrayList<>();
         data.get(0)[0] = data.get(0)[2];
@@ -206,6 +230,12 @@ public class DailyMarkovChain {
         return toReturn;
     }
 
+    /*
+    * Creates a Markov Chain based on the organized data from the previous function
+    * Input:
+    *   data - the list of integers representing the historical stock data
+    * Output: A map from what previously happened to the probabilities of historical data
+    */
     public static Map<Integer, double[]> markovChain(List<Integer> data){
         Map<Integer, int[]> toCollect = new HashMap<>();
 
