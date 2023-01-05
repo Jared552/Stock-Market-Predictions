@@ -1,3 +1,6 @@
+//Jared Boyd 1/5/2023
+//Meant to be run once per day to see what stocks to buy and sell
+
 import java.io.*;
 import java.net.*;
 import java.nio.file.Files;
