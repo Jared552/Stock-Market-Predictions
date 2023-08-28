@@ -1,0 +1,1058 @@
+4000
+23-01-2023
+Bought 3 LLY at 343.03
+Bought 9 PG at 141.79
+24-01-2023
+Sold 9 PG at 140.69
+Sold 3 LLY at 384.44
+4114.33
+Bought 8 JNJ at 166.15
+Bought 9 JPM at 138.52
+Bought 3 LLY at 343.45
+Bought 4 MRK at 107.69
+26-01-2023
+Sold 8 JNJ at 169.55
+Sold 9 JPM at 139.42
+Sold 3 LLY at 351.0
+Sold 4 MRK at 108.53
+4175.64
+Bought 3 MA at 375.47
+Bought 3 LLY at 347.22
+Bought 12 MRK at 106.19
+Bought 2 ACN at 272.57
+Bought 1 IBM at 134.35
+27-01-2023
+Sold 3 MA at 376.19
+Sold 3 LLY at 346.11
+Sold 12 MRK at 106.21
+Sold 2 ACN at 273.26
+Sold 1 IBM at 134.44
+4176.179999999999
+Bought 7 CVX at 179.77
+Bought 2 TMO at 569.2
+Bought 4 MCD at 272.7
+Bought 2 LLY at 342.92
+30-01-2023
+Sold 7 CVX at 178.0 at open
+Sold 2 TMO at 567.77 at open
+Sold 4 MCD at 271.67 at open
+Sold 2 LLY at 344.33 at open
+4159.629999999999
+Bought 7 NVDA at 195.38 at 10:04:49
+Bought 8 TSLA at 170.58 at 10:04:49
+Bought 8 JNJ at 165.56 at 10:16:36
+31-01-2023
+Sold 7 NVDA at 191.7 at open
+Sold 8 TSLA at 164.57 at open
+Sold 8 JNJ at 161.7 at open
+4054.9099999999994
+Bought 18 NEE at 73.69 at 14:28:09
+01-02-2023
+Sold 18 NEE at 74.62 at open
+4071.6499999999996
+Bought 9 AAPL at 142.13 at 11:53:46
+Bought 11 XOM at 113.85 at 11:53:46
+Bought 4 HD at 319.09 at 11:53:46
+Bought 1 CVX at 170.11 at 11:53:46
+Bought 1 NEE at 73.73 at 11:53:46
+02-02-2023
+Sold 9 AAPL at 148.9 at open
+Sold 11 XOM at 114.85 at open
+Sold 4 HD at 333.45 at open
+Sold 1 CVX at 171.13 at open
+Sold 1 NEE at 73.57 at open
+4201.88
+Bought 12 XOM at 110.79 at 12:42:29
+Bought 6 V at 230.39 at 12:42:29
+Bought 8 CVX at 168.63 at 12:42:29
+Bought 1 MRK at 102.68 at 12:42:29
+03-02-2023
+Sold 12 XOM at 111.9 at open
+Sold 6 V at 228.69 at open
+Sold 8 CVX at 169.86 at open
+Sold 1 MRK at 103.22 at open
+4215.38
+Bought 8 PEP at 168.16 at 10:00:48
+Bought 23 KO at 59.45 at 10:00:48
+Bought 19 NEE at 73.71 at 10:00:48
+Bought 1 PM at 102.09 at 10:00:48
+06-02-2023
+Sold 8 PEP at 169.74 at open
+Sold 23 KO at 59.79 at open
+Sold 19 NEE at 74.6 at open
+Sold 1 PM at 102.55 at open
+4253.210000000001
+Bought 4 LLY at 335.32 at 11:21:53
+Bought 10 WMT at 140.2 at 11:21:53
+Bought 2 TMO at 575.15 at 14:46:16
+07-02-2023
+Sold 4 LLY at 336.05 at open
+Sold 10 WMT at 139.77 at open
+Sold 2 TMO at 570.78 at open
+4243.090000000002
+Bought 14 AMZN at 99.29 at 11:21:36
+Bought 35 VZ at 40.15 at 12:35:35
+Bought 6 LOW at 210.59 at 12:48:05
+08-02-2023
+Sold 14 AMZN at 102.04 at open
+Sold 35 VZ at 40.53 at open
+Sold 6 LOW at 214.21 at open
+4316.6100000000015
+Bought 9 AAPL at 151.66 at 11:51:21
+Bought 5 MSFT at 269.7 at 11:51:21
+Bought 14 AMZN at 100.22 at 11:51:21
+Bought 2 GOOG at 99.82 at 11:51:21
+09-02-2023
+Sold 9 AAPL at 153.77 at open
+Sold 5 MSFT at 273.8 at open
+Sold 14 AMZN at 101.32 at open
+Sold 2 GOOG at 100.54 at open
+4372.940000000001
+Bought 5 MSFT at 268.92 at 10:28:27
+Bought 14 AMZN at 99.38 at 10:28:27
+Bought 15 GOOG at 94.85 at 10:28:27
+Bought 1 PEP at 173.38 at 10:28:27
+10-02-2023
+Sold 5 MSFT at 261.53 at open
+Sold 14 AMZN at 97.56 at open
+Sold 15 GOOG at 95.74 at open
+Sold 1 PEP at 173.12 at open
+4323.600000000001
+Bought 6 NVDA at 210.54 at 13:01:34
+Bought 7 TSLA at 195.42 at 13:01:34
+Bought 4 NFLX at 351.64 at 13:01:34
+13-02-2023
+Sold 6 NVDA at 215.38 at open
+Sold 7 TSLA at 194.41 at open
+Sold 4 NFLX at 349.5 at open
+4337.010000000002
+14-02-2023
+4337.010000000002
+Bought 5 DHR at 257.08 at 12:45:51
+Bought 2 TMO at 569.88 at 13:03:49
+Bought 14 PM at 101.84 at 13:33:55
+Bought 4 MRK at 108.77 at 14:59:15
+15-02-2023
+Sold 5 DHR at 254.43 at open
+Sold 2 TMO at 568.46 at open
+Sold 14 PM at 101.47 at open
+Sold 4 MRK at 108.53 at open
+4314.7800000000025
+Bought 24 KO at 59.26 at 10:03:35
+Bought 4 LLY at 342.64 at 10:18:09
+Bought 8 JNJ at 160.17 at 11:22:10
+16-02-2023
+Sold 24 KO at 59.23 at open
+Sold 4 LLY at 331.0 at open
+Sold 8 JNJ at 159.07 at open
+4258.700000000003
+17-02-2023
+4258.700000000003
+Bought 12 XOM at 111.93 at 11:13:23
+Bought 6 NVDA at 212.81 at 11:13:23
+Bought 6 LOW at 210.13 at 11:13:23
+Bought 3 AMZN at 95.91 at 11:19:48
+20-02-2023
+Sold 12 XOM at 114.19 at open
+Sold 6 NVDA at 216.31 at open
+Sold 6 LOW at 213.24 at open
+Sold 3 AMZN at 97.8 at open
+4331.150000000002
+21-02-2023
+4331.150000000002
+Bought 4 HD at 298.05 at 13:03:52
+Bought 28 CSCO at 49.88 at 13:03:52
+Bought 13 ABT at 103.64 at 13:03:52
+Bought 1 ACN at 268.91 at 13:03:52
+Bought 1 NEE at 74.38 at 13:03:52
+22-02-2023
+Sold 4 HD at 297.55 at open
+Sold 28 CSCO at 49.85 at open
+Sold 13 ABT at 103.24 at open
+Sold 1 ACN at 270.63 at open
+Sold 1 NEE at 73.98 at open
+4324.430000000002
+Bought 10 WMT at 143.26 at 13:28:17
+Bought 2 COST at 499.58 at 13:28:17
+Bought 5 MSFT at 251.15 at 14:18:58
+Bought 1 AVGO at 574.78 at 14:18:58
+23-02-2023
+Sold 10 WMT at 144.37 at open
+Sold 2 COST at 498.8 at open
+Sold 5 MSFT at 255.56 at open
+Sold 1 AVGO at 585.75 at open
+4366.9900000000025
+Bought 10 WMT at 142.08 at 15:02:46
+Bought 2 COST at 493.14 at 15:02:46
+Bought 19 NEE at 72.9 at 15:02:46
+Bought 1 NFLX at 323.65 at 15:02:46
+24-02-2023
+Sold 10 WMT at 140.84 at open
+Sold 2 COST at 488.58 at open
+Sold 19 NEE at 72.12 at open
+Sold 1 NFLX at 319.3 at open
+4326.300000000002
+Bought 4 LLY at 321.79 at 11:06:27
+Bought 4 ADBE at 321.67 at 11:06:27
+Bought 14 ABT at 100.26 at 11:34:30
+Bought 1 MCD at 263.65 at 11:40:09
+27-02-2023
+Sold 4 LLY at 322.6 at open
+Sold 4 ADBE at 322.02 at open
+Sold 14 ABT at 101.28 at open
+Sold 1 MCD at 265.03 at open
+4346.600000000002
+Bought 4 LLY at 318.85 at 11:10:48
+Bought 13 MRK at 108.75 at 11:10:48
+Bought 2 COST at 486.37 at 11:10:48
+Bought 2 MSFT at 249.75 at 11:22:42
+Bought 1 WMT at 141.25 at 11:45:01
+28-02-2023
+Sold 4 LLY at 315.49 at open
+Sold 13 MRK at 108.82 at open
+Sold 2 COST at 485.6 at open
+Sold 2 MSFT at 249.07 at open
+Sold 1 WMT at 141.0 at open
+4330.920000000002
+Bought 8 CVX at 160.8 at 15:01:36
+Bought 4 LLY at 311.08 at 15:01:36
+Bought 13 MRK at 106.22 at 15:01:36
+Bought 1 GS at 351.54 at 15:01:36
+06-03-2023
+Sold 8 CVX at 164.34 at open
+Sold 4 LLY at 316.94 at open
+Sold 13 MRK at 107.38 at open
+Sold 1 GS at 358.06 at open
+4404.2800000000025
+Bought 7 TSLA at 192.45 at 11:50:45
+Bought 14 ABT at 103.32 at 12:43:21
+Bought 6 NVDA at 235.73 at 14:20:54
+07-03-2023
+Sold 7 TSLA at 191.38 at open
+Sold 14 ABT at 102.86 at open
+Sold 6 NVDA at 236.0 at open
+4391.970000000003
+Bought 9 AAPL at 151.6 at 16:42:14
+Bought 9 JNJ at 154.09 at 16:42:14
+Bought 10 JPM at 138.62 at 16:42:14
+Bought 1 PG at 137.56 at 16:42:14
+Bought 2 PFE at 40.34 at 16:42:14
+Bought 1 BAC at 33.0 at 16:42:14
+08-03-2023
+Sold 9 AAPL at 152.81 at open
+Sold 9 JNJ at 153.98 at open
+Sold 10 JPM at 138.0 at open
+Sold 1 PG at 137.2 at open
+Sold 2 PFE at 40.32 at open
+Sold 1 BAC at 32.66 at open
+4394.930000000003
+Bought 13 XOM at 109.6 at 11:31:38
+Bought 9 ABBV at 149.8 at 11:31:38
+Bought 13 MRK at 107.97 at 11:31:38
+09-03-2023
+Sold 13 XOM at 110.87 at open
+Sold 9 ABBV at 150.07 at open
+Sold 13 MRK at 109.3 at open
+4431.160000000003
+Bought 9 AAPL at 151.85 at 13:40:36
+Bought 9 JNJ at 151.72 at 13:40:36
+Bought 11 JPM at 130.7 at 13:40:36
+Bought 1 NVDA at 237.68 at 13:40:36
+10-03-2023
+Sold 9 AAPL at 150.21 at open
+Sold 9 JNJ at 151.86 at open
+Sold 11 JPM at 128.96 at open
+Sold 1 NVDA at 234.09 at open
+4394.930000000004
+Bought 9 AAPL at 148.5 at 15:12:57
+Bought 16 AMZN at 90.73 at 15:12:57
+Bought 16 GOOG at 91.01 at 15:12:57
+Bought 1 XOM at 107.8 at 15:12:57
+13-03-2023
+Sold 9 AAPL at 147.8 at open
+Sold 16 AMZN at 89.97 at open
+Sold 16 GOOG at 90.57 at open
+Sold 1 XOM at 105.34 at open
+4366.970000000004
+14-03-2023
+4366.970000000004
+15-03-2023
+4366.970000000004
+Bought 11 JPM at 128.29 at 15:01:34
+16-03-2023
+Sold 11 JPM at 128.01 at open
+4363.890000000004
+17-03-2023
+4363.890000000004
+Bought 11 JPM at 125.89 at 11:03:52
+Bought 13 MRK at 104.73 at 11:03:52
+Bought 2 TMO at 546.04 at 11:03:52
+Bought 1 MCD at 266.61 at 11:03:52
+Bought 2 ABT at 97.61 at 11:03:52
+20-03-2023
+Sold 11 JPM at 126.99 at open
+Sold 13 MRK at 104.82 at open
+Sold 2 TMO at 546.76 at open
+Sold 1 MCD at 267.84 at open
+Sold 2 ABT at 97.25 at open
+4379.110000000003
+21-03-2023
+4379.110000000003
+Bought 5 MSFT at 270.99 at 11:16:32
+Bought 5 NVDA at 257.27 at 11:16:32
+Bought 4 LLY at 329.3 at 11:16:32
+Bought 5 NEE at 74.75 at 11:16:32
+22-03-2023
+Sold 5 MSFT at 273.4 at open
+Sold 5 NVDA at 264.25 at open
+Sold 4 LLY at 331.77 at open
+Sold 5 NEE at 75.31 at open
+4438.740000000003
+Bought 12 NKE at 120.9 at 12:49:28
+Bought 4 ADBE at 367.17 at 14:04:56
+Bought 29 CSCO at 49.9 at 14:06:18
+23-03-2023
+Sold 12 NKE at 120.47 at open
+Sold 4 ADBE at 368.99 at open
+Sold 29 CSCO at 49.56 at open
+4431.000000000003
+Bought 14 XOM at 103.43 at 14:01:33
+Bought 54 BAC at 27.17 at 14:01:33
+Bought 7 LOW at 189.26 at 14:01:33
+Bought 1 CVX at 154.55 at 14:03:26
+24-03-2023
+Sold 14 XOM at 101.47 at open
+Sold 54 BAC at 26.6 at open
+Sold 7 LOW at 188.75 at open
+Sold 1 CVX at 152.1 at open
+4366.760000000003
+Bought 5 NVDA at 266.19 at 10:52:47
+Bought 2 AVGO at 630.01 at 11:21:01
+27-03-2023
+Sold 5 NVDA at 268.37 at open
+Sold 2 AVGO at 639.0 at open
+4395.640000000003
+Bought 5 MSFT at 277.36 at 10:39:53
+Bought 14 GOOG at 103.52 at 10:39:53
+Bought 12 NKE at 118.14 at 10:39:53
+28-03-2023
+Sold 5 MSFT at 275.79 at open
+Sold 14 GOOG at 103.0 at open
+Sold 12 NKE at 117.95 at open
+4378.230000000003
+Bought 14 GOOG at 100.74 at 11:38:22
+Bought 6 V at 220.15 at 12:41:26
+Bought 9 AAPL at 156.04 at 12:41:26
+29-03-2023
+Sold 14 GOOG at 102.72 at open
+Sold 6 V at 222.29 at open
+Sold 9 AAPL at 159.37 at open
+4448.760000000004
+Bought 2 AVGO at 625.3 at 11:06:56
+30-03-2023
+Sold 2 AVGO at 632.73 at open
+4463.620000000004
+Bought 11 JPM at 127.92 at 12:00:00
+31-03-2023
+Sold 11 JPM at 129.66 at open
+4482.760000000005
+03-04-2023
+4482.760000000005
+Bought 7 TSLA at 193.69 at 12:07:00
+04-04-2023
+Sold 7 TSLA at 197.32 at open
+4508.170000000005
+Bought 41 WFC at 36.6 at 12:35:41
+Bought 4 GS at 321.44 at 12:35:41
+Bought 5 HD at 294.76 at 13:04:00
+Bought 1 WMT at 147.16 at 13:04:00
+05-04-2023
+Sold 41 WFC at 36.5 at open
+Sold 4 GS at 319.62 at open
+Sold 5 HD at 295.0 at open
+Sold 1 WMT at 147.17 at open
+4498.000000000005
+Bought 9 AAPL at 163.62 at 10:21:41
+Bought 14 AMZN at 101.4 at 10:21:41
+Bought 14 GOOG at 104.46 at 10:21:41
+Bought 1 NKE at 121.12 at 10:21:41
+06-04-2023
+Sold 9 AAPL at 162.43 at open
+Sold 14 AMZN at 100.75 at open
+Sold 14 GOOG at 105.77 at open
+Sold 1 NKE at 119.51 at open
+4494.920000000005
+Bought 2 TMO at 575.02 at 13:15:14
+Bought 6 DHR at 246.1 at 13:15:14
+Bought 12 XOM at 115.51 at 14:00:10
+10-04-2023
+Sold 2 TMO at 572.73 at open
+Sold 6 DHR at 245.84 at open
+Sold 12 XOM at 114.78 at open
+4480.020000000004
+Bought 9 PG at 150.24 at 10:53:24
+Bought 2 TMO at 566.36 at 10:53:24
+Bought 4 LLY at 365.52 at 10:54:41
+Bought 3 AAPL at 161.24 at 10:56:00
+11-04-2023
+Sold 9 PG at 151.26 at open
+Sold 2 TMO at 576.48 at open
+Sold 4 LLY at 367.76 at open
+Sold 3 AAPL at 162.35 at open
+4521.730000000004
+Bought 9 AAPL at 161.08 at 10:23:49
+Bought 5 MSFT at 282.98 at 10:23:49
+Bought 5 NVDA at 273.02 at 10:23:49
+12-04-2023
+Sold 9 AAPL at 161.22 at open
+Sold 5 MSFT at 284.79 at open
+Sold 5 NVDA at 273.7 at open
+4535.440000000004
+Bought 14 GOOG at 106.04 at 11:17:11
+Bought 5 NVDA at 269.07 at 11:17:11
+Bought 5 HD at 292.87 at 11:17:11
+Bought 1 TSLA at 183.87 at 11:18:30
+13-04-2023
+Sold 14 GOOG at 106.47 at open
+Sold 5 NVDA at 267.34 at open
+Sold 5 HD at 290.89 at open
+Sold 1 TSLA at 182.96 at open
+4522.000000000004
+14-04-2023
+4522.000000000004
+Bought 5 MSFT at 284.1 at 11:59:12
+Bought 3 COST at 490.23 at 11:59:12
+Bought 5 ACN at 279.27 at 11:59:12
+Bought 1 NKE at 125.61 at 11:59:12
+17-04-2023
+Sold 5 MSFT at 289.93 at open
+Sold 3 COST at 492.77 at open
+Sold 5 ACN at 278.78 at open
+Sold 1 NKE at 126.03 at open
+4556.740000000003
+Bought 5 MSFT at 287.13 at 12:17:01
+Bought 4 LLY at 371.79 at 12:17:01
+Bought 4 NFLX at 330.06 at 12:24:56
+18-04-2023
+Sold 5 MSFT at 291.57 at open
+Sold 4 LLY at 373.0 at open
+Sold 4 NFLX at 335.0 at open
+4603.540000000003
+Bought 20 AZN at 74.61 at 11:01:22
+Bought 5 MSFT at 287.39 at 11:01:22
+Bought 15 AMZN at 102.03 at 11:01:22
+Bought 1 ABT at 104.11 at 11:01:22
+19-04-2023
+Sold 20 AZN at 74.55 at open
+Sold 5 MSFT at 285.99 at open
+Sold 15 AMZN at 101.58 at open
+Sold 1 ABT at 108.5 at open
+4592.980000000003
+20-04-2023
+4592.980000000003
+Bought 13 ABT at 110.52 at 13:31:33
+Bought 86 T at 17.67 at 13:31:33
+Bought 12 IBM at 126.61 at 13:31:33
+21-04-2023
+Sold 13 ABT at 110.88 at open
+Sold 86 T at 17.87 at open
+Sold 12 IBM at 126.0 at open
+4607.540000000003
+Bought 9 JNJ at 162.09 at 13:35:59
+24-04-2023
+Sold 9 JNJ at 162.69 at open
+4612.940000000002
+Bought 4 LLY at 381.94 at 11:52:20
+Bought 24 KO at 64.01 at 11:52:20
+Bought 14 AMZN at 105.85 at 12:02:06
+25-04-2023
+Sold 4 LLY at 385.05 at open
+Sold 24 KO at 64.17 at open
+Sold 14 AMZN at 104.91 at open
+4616.060000000002
+26-04-2023
+4616.060000000002
+Bought 20 AZN at 73.57 at 12:08:41
+Bought 5 HD at 290.46 at 12:08:41
+Bought 4 LLY at 377.01 at 12:08:41
+Bought 1 MRK at 113.66 at 12:08:41
+27-04-2023
+Sold 20 AZN at 73.55 at open
+Sold 5 HD at 288.0 at open
+Sold 4 LLY at 391.26 at open
+Sold 1 MRK at 114.6 at open
+4661.300000000003
+Bought 4 LLY at 385.21 at 12:54:24
+Bought 10 ABBV at 149.39 at 12:54:24
+Bought 6 DHR at 230.35 at 12:54:24
+28-04-2023
+Sold 4 LLY at 398.00 at open
+Sold 10 ABBV at 147.97 at open
+Sold 6 DHR at 232.53 at open
+4711.34
+01-05-2023
+4711.34
+02-05-2023
+4711.34
+Bought 6 V at 227.05 at 13:02:28
+Bought 2 AVGO at 611.02 at 13:02:28
+Bought 14 GOOG at 106.22 at 13:02:28
+Bought 5 XOM at 109.59 at 13:02:28
+Bought 1 NEE at 75.8 at 13:02:28
+03-05-2023
+Sold 6 V at 226.98 at open
+Sold 2 AVGO at 616.9 at open
+Sold 14 GOOG at 106.22 at open
+Sold 5 XOM at 109.08 at open
+Sold 1 NEE at 76.26 at open
+4720.59
+Bought 4 LIN at 367.0 at 09:10:36
+Bought 5 MSFT at 304.4 at 09:11:56
+04-05-2023
+Sold 4 LIN at 362.64 at open
+Sold 5 MSFT at 306.24 at open
+4712.35
+05-05-2023
+4712.35
+08-05-2023
+4712.35
+09-05-2023
+4712.35
+10-05-2023
+4712.35
+15-05-2023
+4712.35
+Bought 4 LIN at 365.8 at 09:10:46
+Bought 42 VZ at 36.88 at 10:59:07
+16-05-2023
+Sold 4 LIN at 367.29 at open
+Sold 42 VZ at 36.62 at open
+4707.39
+Bought 95 T at 16.51 at 13:31:35
+17-05-2023
+Sold 95 T at 16.66 at open
+4721.64
+Bought 21 AZN at 74.26 at 09:21:55
+Bought 13 MRK at 113.76 at 09:50:11
+18-05-2023
+Sold 21 AZN at 74.91 at open
+Sold 13 MRK at 114.14 at open
+4740.23
+19-05-2023
+4740.23
+22-05-2023
+4740.23
+Bought 8 PEP at 188.44 at 09:01:20
+Bought 25 KO at 61.88 at 09:03:36
+Bought 10 PG at 150.29 at 09:06:04
+23-05-2023
+Sold 8 PEP at 186.49 at open
+Sold 25 KO at 61.51 at open
+Sold 10 PG at 148.79 at open
+4700.379999999999
+Bought 4 LIN at 357.73 at 09:57:02
+Bought 6 V at 225.38 at 10:19:12
+Bought 4 MA at 374.12 at 10:38:04
+24-05-2023
+Sold 4 LIN at 351.32 at open
+Sold 6 V at 222.55 at open
+Sold 4 MA at 369.37 at open
+4638.759999999999
+Bought 5 HD at 290.45 at 10:51:49
+Bought 39 PFE at 38.9 at 10:51:49
+Bought 7 LOW at 202.82 at 10:51:49
+Bought 1 WMT at 146.6 at 10:52:54
+25-5-2023
+Sold 5 HD at 291.79 at open
+Sold 39 PFE at 38.51 at open
+Sold 7 LOW at 203.00 at open
+Sold 1 WMT at 146.88 at open
+4631.79
+26-05-2023
+4631.79
+30-05-2023
+4631.79
+Bought 12 GOOG at 123.25 at 09:04:27
+Bought 3 ADBE at 418.42 at 09:04:27
+Bought 4 LIN at 352.27 at 09:07:26
+Bought 1 MSFT at 331.14 at 09:14:51
+Bought 2 AZN at 72.04 at 09:24:06
+31-05-2023
+Sold 12 GOOG at 123.7 at open
+Sold 3 ADBE at 413.9 at open
+Sold 4 LIN at 354.11 at open
+Sold 1 MSFT at 332.29 at open
+Sold 2 AZN at 72.34 at open
+4632.740000000001
+Bought 7 V at 216.53 at 09:10:01
+Bought 4 MA at 358.2 at 09:10:01
+Bought 3 TMO at 502.64 at 09:10:01
+01-06-2023
+Sold 7 V at 222.73 at open
+Sold 4 MA at 367.16 at open
+Sold 3 TMO at 513.13 at open
+4743.450000000001
+Bought 11 ABBV at 132.69 at 09:04:27
+02-06-2023
+Sold 11 ABBV at 133.71 at open
+4754.670000000001
+Bought 4 NVDA at 393.54 at 13:02:21
+05-06-2023
+Sold 4 NVDA at 389.09 at open
+4736.870000000001
+Bought 1 AVGO at 799.56 at 10:10:07
+Bought 3 TMO at 515.51 at 10:10:07
+Bought 14 XOM at 105.49 at 10:11:12
+Bought 5 CVX at 155.7 at 10:12:18
+Bought 1 NKE at 105.75 at 11:04:55
+06-06-2023
+Sold 1 AVGO at 802.0 at open
+Sold 3 TMO at 522.0 at open
+Sold 14 XOM at 104.15 at open
+Sold 5 CVX at 153.33 at open
+Sold 1 NKE at 105.49 at open
+4727.910000000002
+Bought 2 AVGO at 786.96 at 09:51:28
+Bought 3 LLY at 442.87 at 09:51:28
+Bought 14 MRK at 111.78 at 09:51:28
+Bought 1 PEP at 181.87 at 09:51:28
+07-06-2023
+Sold 2 AVGO at 789.82 at open
+Sold 3 LLY at 447.83 at open
+Sold 14 MRK at 109.63 at open
+Sold 1 PEP at 180.71 at open
+4717.250000000001
+Bought 7 V at 223.43 at 09:02:07
+Bought 21 AZN at 73.09 at 09:04:20
+Bought 4 MA at 372.79 at 09:06:43
+08-06-2023
+Sold 7 V at 225.09 at open
+Sold 21 AZN at 73.14 at open
+Sold 4 MA at 369.36 at open
+4716.200000000001
+Bought 14 XOM at 106.37 at 10:54:15
+Bought 9 CVX at 157.32 at 11:00:26
+09-06-2023
+Sold 14 XOM at 108.77 at open
+Sold 9 CVX at 159.28 at open
+4767.4400000000005
+Bought 3 LLY at 445.12 at 12:08:47
+Bought 5 HD at 296.1 at 12:39:43
+12-06-2023
+Sold 3 LLY at 446.15 at open
+Sold 5 HD at 298.4 at open
+4782.030000000001
+Bought 3 LLY at 440.34 at 09:19:17
+Bought 4 NVDA at 386.93 at 09:59:27
+Bought 11 ABBV at 137.12 at 11:57:36
+Bought 2 PG at 145.05 at 12:36:34
+13-06-2023
+Sold 3 LLY at 443.67 at open
+Sold 4 NVDA at 401.86 at open
+Sold 11 ABBV at 137.51 at open
+Sold 2 PG at 144.51 at open
+4854.950000000001
+Bought 1 AVGO at 844.5 at 08:58:54
+Bought 3 ADBE at 478.39 at 08:58:54
+Bought 12 AMZN at 125.26 at 09:17:19
+Bought 3 META at 269.67 at 13:11:52
+Bought 2 GOOG at 123.87 at 13:45:29
+14-06-2023
+Sold 1 AVGO at 855.9 at open
+Sold 3 ADBE at 476.15 at open
+Sold 12 AMZN at 126.7 at open
+Sold 3 META at 271.89 at open
+Sold 2 GOOG at 123.8 at open
+4883.43
+Bought 15 XOM at 105.76 at 10:19:58
+Bought 11 ABBV at 136.42 at 12:07:02
+Bought 10 CVX at 157.24 at 12:12:07
+Bought 3 AZN at 72.96 at 13:10:31
+15-06-2023
+Sold 15 XOM at 105.5 at open
+Sold 11 ABBV at 136.75 at open
+Sold 10 CVX at 157.32 at open
+Sold 3 AZN at 74.0 at open
+4887.08
+Bought 1 AVGO at 873.45 at 09:37:34
+16-06-2023
+Sold 1 AVGO at 889.28 at open
+4902.91
+Bought 4 MSFT at 346.55 at 09:20:28
+Bought 13 GOOG at 124.81 at 09:20:28
+Bought 3 ADBE at 503.16 at 09:20:28
+20-06-2023
+Sold 4 MSFT at 339.31 at open
+Sold 13 GOOG at 123.54 at open
+Sold 3 ADBE at 485.63 at open
+4804.85
+Bought 15 XOM at 102.67 at 11:34:47
+Bought 10 CVX at 152.76 at 11:34:47
+Bought 4 LIN at 369.24 at 11:34:47
+Bought 2 NKE at 109.28 at 13:45:14
+21-06-2023
+Sold 15 XOM at 102.5 at open
+Sold 10 CVX at 152.67 at open
+Sold 4 LIN at 367.16 at open
+Sold 2 NKE at 109.13 at open
+4792.780000000001
+Bought 3 NVDA at 425.23 at 09:38:52
+Bought 3 ADBE at 482.76 at 09:38:52
+Bought 13 GOOG at 121.35 at 09:47:12
+Bought 1 TSLA at 267.14 at 09:47:12
+22-06-2023
+Sold 3 NVDA at 422.53 at open
+Sold 3 ADBE at 474.12 at open
+Sold 13 GOOG at 120.66 at open
+Sold 1 TSLA at 250.77 at open
+4733.420000000001
+Bought 1 AVGO at 835.47 at 10:46:36
+Bought 11 JPM at 139.68 at 11:14:59
+23-06-2023
+Sold 1 AVGO at 834.01 at open
+Sold 11 JPM at 138.54 at open
+4719.42
+Bought 1 AVGO at 824.21 at 10:57:08
+Bought 10 PG at 148.33 at 13:20:04
+26-06-2023
+Sold 1 AVGO at 825.0 at open
+Sold 10 PG at 148.1 at open
+4717.91
+Bought 9 JNJ at 161.62 at 10:04:18
+Bought 3 LLY at 454.24 at 10:04:18
+Bought 14 MRK at 111.94 at 10:04:18
+Bought 2 ABBV at 133.71 at 10:05:29
+27-06-2023
+Sold 9 JNJ at 163.68 at open
+Sold 3 LLY at 462.5 at open
+Sold 14 MRK at 112.83 at open
+Sold 2 ABBV at 136.15 at open
+4778.570000000001
+Bought 3 NVDA at 410.6 at 09:55:35
+Bought 11 ABBV at 133.05 at 09:55:35
+Bought 3 TMO at 510.28 at 09:55:35
+Bought 2 DHR at 232.36 at 09:55:35
+28-06-2023
+Sold 3 NVDA at 407.99 at open
+Sold 11 ABBV at 134.88 at open
+Sold 3 TMO at 520.34 at open
+Sold 2 DHR at 238.78 at open
+4833.89
+Bought 3 TMO at 508.36 at 09:45:46
+Bought 6 DHR at 233.78 at 09:45:46
+Bought 12 ABBV at 132.21 at 10:06:19
+Bought 8 PFE at 36.11 at 10:34:11
+29-06-2023
+Sold 3 TMO at 510.0 at open
+Sold 6 DHR at 233.6 at open
+Sold 12 ABBV at 132.37 at open
+Sold 8 PFE at 35.99 at open
+4838.6900000000005
+30-06-2023
+4838.69
+03-07-2023
+4838.69
+Bought 3 LLY at 460.09 at 10:03:18
+Bought 24 AZN at 66.18 at 10:12:33
+Bought 4 LIN at 378.23 at 13:03:33
+05-07-2023
+Sold 3 LLY at 462.1 at open
+Sold 24 AZN at 66.86 at open
+Sold 4 LIN at 371.12 at open
+4832.599999999999
+Bought 4 LIN at 367.26 at 11:00:40
+06-07-2023
+Sold 4 LIN at 362.38 at open
+4813.08
+Bought 24 AZN at 65.36 at 10:48:17
+Bought 15 XOM at 103.38 at 11:12:53
+Bought 10 CVX at 152.31 at 11:17:15
+Bought 6 BAC at 28.1 at 11:23:49
+07-07-2023
+Sold 24 AZN at 65.33 at open
+Sold 15 XOM at 101.92 at open
+Sold 10 CVX at 152.14 at open
+Sold 6 BAC at 28.3 at open
+4789.96
+Bought 3 LLY at 457.66 at 10:20:26
+Bought 14 MRK at 109.6 at 11:05:34
+Bought 10 PG at 149.74 at 11:47:12
+10-07-2023
+Sold 3 LLY at 452.96 at open
+Sold 14 MRK at 109.14 at open
+Sold 10 PG at 148.94 at open
+4761.42
+Bought 4 MSFT at 330.51 at 10:41:46
+Bought 3 NVDA at 420.86 at 10:44:17
+Bought 5 TSLA at 268.66 at 11:26:21
+Bought 2 META at 289.19 at 11:46:53
+Bought 2 GOOG at 117.16 at 12:01:20
+11-07-2023
+Sold 4 MSFT at 331.06 at open
+Sold 3 NVDA at 424.81 at open
+Sold 5 TSLA at 268.65 at open
+Sold 2 META at 293.9 at open
+Sold 2 GOOG at 116.76 at open
+4784.040000000001
+Bought 3 LLY at 443.0 at 10:18:56
+Bought 1 AVGO at 871.81 at 10:19:44
+Bought 4 LIN at 365.86 at 10:31:14
+Bought 3 MCD at 291.96 at 10:44:50
+Bought 1 AAPL at 186.93 at 14:20:01
+12-07-2023
+Sold 3 LLY at 438.47 at open
+Sold 1 AVGO at 889.0 at open
+Sold 4 LIN at 370.37 at open
+Sold 3 MCD at 296.83 at open
+Sold 1 AAPL at 189.68 at open
+4823.040000000002
+Bought 31 CSCO at 50.72 at 13:47:49
+13-07-2023
+Sold 31 CSCO at 50.69 at open
+4822.11
+Bought 1 AVGO at 885.24 at 10:17:44
+Bought 3 LLY at 435.68 at 11:06:21
+Bought 7 LOW at 229.26 at 11:11:13
+Bought 9 XOM at 104.07 at 11:34:19
+14-07-2023
+Sold 1 AVGO at 886.16 at open
+Sold 3 LLY at 441.1 at open
+Sold 7 LOW at 229.95 at open
+Sold 9 XOM at 104.05 at open
+4843.94
+Bought 23 AZN at 67.81 at 10:50:15
+Bought 15 XOM at 102.15 at 10:50:15
+Bought 10 CVX at 154.12 at 10:50:15
+Bought 1 JPM at 148.94 at 11:04:12
+17-07-2023
+Sold 23 AZN at 66.83 at open
+Sold 15 XOM at 100.72 at open
+Sold 10 CVX at 153.35 at open
+Sold 1 JPM at 150.35 at open
+4793.66
+Bought 3 NVDA at 453.47 at 12:42:58
+Bought 49 VZ at 32.19 at 12:42:58
+Bought 117 T at 13.62 at 12:42:58
+Bought 3 DIS at 85.68 at 13:21:24
+18-07-2023
+Sold 3 NVDA at 467.01 at open
+Sold 49 VZ at 32.01 at open
+Sold 117 T at 13.53 at open
+Sold 3 DIS at 85.51 at open
+4814.42
+Bought 3 NVDA at 459.58 at 09:57:43
+Bought 6 V at 239.22 at 10:28:36
+Bought 22 NEE at 71.47 at 12:33:35
+19-07-2023
+Sold 3 NVDA at 474.64 at open
+Sold 6 V at 241.25 at open
+Sold 22 NEE at 72.36 at open
+4891.360000000001
+Bought 4 LIN at 377.69 at 11:46:27
+Bought 4 MSFT at 356.81 at 12:19:26
+Bought 13 GOOG at 123.02 at 12:49:32
+20-07-2023
+Sold 4 LIN at 376.11 at open
+Sold 4 MSFT at 353.57 at open
+Sold 13 GOOG at 122.12 at open
+4860.380000000001
+Bought 4 MSFT at 349.63 at 10:31:03
+Bought 3 NVDA at 457.32 at 10:31:03
+Bought 5 TSLA at 271.98 at 10:31:03
+Bought 2 META at 307.91 at 10:33:39
+21-07-2023
+Sold 4 MSFT at 349.15 at open
+Sold 3 NVDA at 457.88 at open
+Sold 5 TSLA at 268.0 at open
+Sold 2 META at 304.57 at open
+4833.56
+Bought 3 NVDA at 448.05 at 11:07:09
+Bought 6 TSLA at 260.02 at 11:07:09
+Bought 5 META at 296.98 at 11:07:09
+Bought 1 NFLX at 426.58 at 11:44:15
+24-07-2023
+Sold 3 NVDA at 447.31 at open
+Sold 6 TSLA at 255.85 at open
+Sold 5 META at 295.78 at open
+Sold 1 NFLX at 425.0 at open
+4798.74
+Bought 5 META at 289.78 at 11:36:10
+Bought 14 MRK at 108.55 at 13:19:31
+Bought 3 LLY at 457.73 at 13:50:40
+25-07-2023
+Sold 5 META at 295.19 at open
+Sold 14 MRK at 107.64 at open
+Sold 3 LLY at 457.76 at open
+4813.14
+Bought 10 WMT at 158.53 at 13:39:46
+26-07-2023
+Sold 10 WMT at 159.24 at open
+4820.24
+Bought 1 AVGO at 899.78 at 10:02:09
+Bought 3 LLY at 448.21 at 10:02:09
+Bought 3 NVDA at 455.07 at 10:02:57
+Bought 3 LIN at 381.56 at 10:12:13
+27-07-2023
+Sold 1 AVGO at 908.5 at open
+Sold 3 LLY at 453.32 at open
+Sold 3 NVDA at 465.19 at open
+Sold 3 LIN at 388.21 at open
+4894.599999999999
+Bought 4 LIN at 384.1 at 10:12:55
+Bought 4 MSFT at 336.33 at 10:20:29
+Bought 5 META at 319.31 at 10:28:07
+Bought 1 DHR at 260.08 at 10:51:06
+28-07-2023
+Sold 4 LIN at 386.65 at open
+Sold 4 MSFT at 333.67 at open
+Sold 5 META at 316.88 at open
+Sold 1 DHR at 257.14 at open
+4879.070000000001
+Bought 15 XOM at 103.36 at 10:05:28
+Bought 4 MA at 391.7 at 11:09:24
+Bought 4 GS at 352.27 at 11:53:26
+Bought 1 ACN at 315.43 at 13:11:37
+31-07-2023
+Sold 15 XOM at 105.19 at open
+Sold 4 MA at 393.97 at open
+Sold 4 GS at 354.88 at open
+Sold 1 ACN at 315.0 at open
+4925.610000000001
+Bought 3 LLY at 454.63 at 10:03:42
+Bought 9 JNJ at 166.87 at 10:53:07
+Bought 2 TMO at 549.11 at 11:15:20
+Bought 5 PEP at 187.16 at 11:33:07
+01-08-2023
+Sold 3 LLY at 455.35 at open
+Sold 9 JNJ at 166.37 at open
+Sold 2 TMO at 546.53 at open
+Sold 5 PEP at 187.49 at open
+4919.760000000001
+Bought 15 MRK at 107.0 at 10:06:08
+Bought 49 VZ at 33.37 at 11:30:53
+Bought 10 CVX at 160.87 at 11:40:18
+02-08-2023
+Sold 15 MRK at 106.03 at open
+Sold 49 VZ at 33.47 at open
+Sold 10 CVX at 161.17 at open
+4913.110000000001
+Bought 3 NVDA at 452.66 at 10:02:26
+Bought 1 AVGO at 902.91 at 10:21:09
+Bought 3 ADBE at 529.52 at 10:42:41
+Bought 5 AAPL at 192.8 at 10:59:47
+03-08-2023
+Sold 3 NVDA at 438.0 at open
+Sold 1 AVGO at 886.62 at open
+Sold 3 ADBE at 523.0 at open
+Sold 5 AAPL at 191.57 at open
+4827.130000000001
+04-08-2023
+4827.130000000001
+07-08-2023
+4827.130000000001
+Bought 9 AAPL at 178.69 at 09:56:23
+Bought 6 TSLA at 248.52 at 09:56:23
+08-08-2023
+Sold 9 AAPL at 179.69 at open
+Sold 6 TSLA at 247.45 at open
+4829.710000000001
+Bought 1 AVGO at 880.28 at 10:05:13
+Bought 15 ABT at 104.81 at 10:05:13
+Bought 4 GS at 344.63 at 10:05:13
+Bought 2 LIN at 379.7 at 10:15:52
+Bought 6 PFE at 35.5 at 10:30:59
+09-08-2023
+Sold 1 AVGO at 882.72 at open
+Sold 15 ABT at 105.5 at open
+Sold 4 GS at 346.82 at open
+Sold 2 LIN at 383.21 at open
+Sold 6 PFE at 35.6 at open
+4858.880000000002
+Bought 1 AVGO at 870.71 at 10:02:35
+Bought 3 NVDA at 435.49 at 10:02:35
+Bought 5 META at 307.66 at 10:04:17
+Bought 6 AAPL at 178.58 at 10:21:08
+10-08-2023
+Sold 1 AVGO at 853.12 at open
+Sold 3 NVDA at 421.6 at open
+Sold 5 META at 307.94 at open
+Sold 6 AAPL at 179.48 at open
+4806.420000000002
+Bought 1 AVGO at 844.04 at 11:53:10
+Bought 4 MSFT at 321.8 at 13:43:48
+11-08-2023
+Sold 1 AVGO at 834.01 at open
+Sold 4 MSFT at 320.26 at open
+4790.230000000002
+Bought 3 NVDA at 411.25 at 11:11:24
+Bought 1 AVGO at 824.7 at 11:20:17
+14-08-2023
+Sold 3 NVDA at 417.51 at open
+Sold 1 AVGO at 831.13 at open
+4815.440000000002
+Bought 10 WMT at 160.09 at 13:12:31
+15-08-2023
+Sold 10 WMT at 159.54 at open
+4809.940000000002
+Bought 3 NVDA at 439.07 at 10:05:38
+Bought 14 XOM at 109.0 at 10:14:21
+Bought 9 CVX at 160.51 at 10:35:09
+Bought 3 JPM at 150.48 at 11:12:50
+16-08-2023
+Sold 3 NVDA at 445.2 at open
+Sold 14 XOM at 108.28 at open
+Sold 9 CVX at 160.52 at open
+Sold 3 JPM at 150.6 at open
+4818.700000000003
+Bought 3 NVDA at 438.36 at 10:02:01
+Bought 1 AVGO at 836.89 at 13:06:19
+17-08-2023
+Sold 3 NVDA at 439.7 at open
+Sold 1 AVGO at 836.51 at open
+4822.340000000003
+Bought 3 ADBE at 515.52 at 10:03:27
+Bought 10 WMT at 158.96 at 10:04:16
+Bought 9 AAPL at 174.53 at 10:14:06
+18-08-2023
+Sold 3 ADBE at 504.65 at open
+Sold 10 WMT at 155.31 at open
+Sold 9 AAPL at 172.3 at open
+4733.160000000003
+Bought 12 GOOG at 127.15 at 10:07:16
+Bought 3 NVDA at 417.46 at 10:07:16
+21-08-2023
+Sold 12 GOOG at 127.85 at open
+Sold 3 NVDA at 444.94 at open
+4824.000000000002
+22-08-2023
+4824.000000000002
+Bought 3 NVDA at 466.0 at 10:09:07
+Bought 1 AVGO at 863.49 at 10:28:03
+Bought 10 JPM at 146.65 at 11:46:09
+Bought 4 TSLA at 232.36 at 11:47:31
+23-08-2023
+Sold 3 NVDA at 458.66 at open
+Sold 1 AVGO at 850.77 at open
+Sold 10 JPM at 146.35 at open
+Sold 4 TSLA at 229.34 at open
+4774.180000000002
+Bought 2 LLY at 551.05 at 10:08:56
+Bought 10 ABBV at 146.28 at 14:58:04
+24-08-2023
+Sold 2 LLY at 552.7 at open
+Sold 10 ABBV at 146.92 at open
+4783.880000000003
+Bought 8 AAPL at 178.3 at 10:31:02
+Bought 1 AVGO at 872.3 at 10:31:02
+Bought 4 MSFT at 325.07 at 10:31:02
+Bought 8 AMZN at 133.37 at 10:31:02
+25-08-2023
+Sold 8 AAPL at 177.38 at open
+Sold 1 AVGO at 857.02 at open
+Sold 4 MSFT at 321.47 at open
+Sold 8 AMZN at 132.47 at open
+4739.640000000003
+Bought 3 NVDA at 465.12 at 10:43:38
+Bought 1 AVGO at 844.88 at 10:49:22
+Bought 5 META at 280.21 at 10:49:22
+Bought 8 GOOG at 128.4 at 10:56:23
